@@ -2,7 +2,7 @@
 
 Установка и запуск среды разработки backend Django
 
-django: 4..3
+django: 4.2.3
 
 Затем инсталлируем необходимые для работы проекта пакеты:
 pip install djangorestframework
